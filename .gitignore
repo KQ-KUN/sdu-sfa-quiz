@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+*.log
+SDU-SFA-quiz.html
+serve.ps1
+启动平板访问.cmd
+使用说明.md

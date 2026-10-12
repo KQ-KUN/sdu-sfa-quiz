@@ -1,0 +1,1202 @@
+[
+  {
+    "category": "中国科幻",
+    "prompt": "科幻小说《三体》的作者是谁？",
+    "options": [
+      "刘慈欣",
+      "韩松",
+      "郝景芳",
+      "王晋康"
+    ],
+    "answer": 0,
+    "explanation": "《三体》的作者是刘慈欣。它的英文版由刘宇昆翻译，并获得了 2015 年雨果奖最佳长篇小说奖。",
+    "source": {
+      "name": "雨果奖官网 · 2015 年获奖名单",
+      "url": "https://www.thehugoawards.org/hugo-history/2015-hugo-awards/"
+    },
+    "id": "E01",
+    "difficulty": "easy",
+    "work": "三体",
+    "spoiler": false
+  },
+  {
+    "category": "带着地球去旅行",
+    "prompt": "在电影《流浪地球》中，人类主要用什么推动地球离开太阳系？",
+    "options": [
+      "巨大的太阳帆",
+      "行星发动机",
+      "月球引力弹弓",
+      "空间传送门"
+    ],
+    "answer": 1,
+    "explanation": "电影中的人类建造了大量发动机，推动地球踏上漫长的星际旅程。这是作品设定。",
+    "source": {
+      "name": "Netflix · The Wandering Earth 官方简介",
+      "url": "https://media.netflix.com/en/only-on-netflix/81067760"
+    },
+    "id": "E02",
+    "difficulty": "easy",
+    "work": "流浪地球",
+    "spoiler": false
+  },
+  {
+    "category": "银河系名场面",
+    "prompt": "在《星球大战》中，绝地武士的标志性武器是什么？",
+    "options": [
+      "相位枪",
+      "光剑",
+      "三叉戟",
+      "电磁弓"
+    ],
+    "answer": 1,
+    "explanation": "光剑是绝地武士的标志性武器。其英文名是 lightsaber，西斯也会使用光剑。",
+    "source": {
+      "name": "Star Wars 官方资料库 · Lightsaber",
+      "url": "https://www.starwars.com/databank/lightsaber"
+    },
+    "id": "E03",
+    "difficulty": "easy",
+    "work": "星球大战",
+    "spoiler": false
+  },
+  {
+    "category": "海底的未来",
+    "prompt": "凡尔纳的《海底两万里》中，尼摩船长驾驶的潜艇叫什么？",
+    "options": [
+      "发现号",
+      "企业号",
+      "鹦鹉螺号",
+      "千年隼号"
+    ],
+    "answer": 2,
+    "explanation": "鹦鹉螺号（Nautilus，也译为诺第留斯号）带领读者开启海底冒险。",
+    "source": {
+      "name": "Project Gutenberg · 《海底两万里》原文",
+      "url": "https://www.gutenberg.org/files/164/164-h/164-h.htm"
+    },
+    "id": "E04",
+    "difficulty": "easy",
+    "work": "海底两万里",
+    "spoiler": false
+  },
+  {
+    "category": "时间旅行",
+    "prompt": "经典科幻小说《时间机器》的作者是谁？",
+    "options": [
+      "乔治·奥威尔",
+      "H. G. 威尔斯",
+      "雷·布拉德伯里",
+      "阿瑟·克拉克"
+    ],
+    "answer": 1,
+    "explanation": "H. G. 威尔斯的《时间机器》出版于 1895 年，是时间旅行题材的经典作品。",
+    "source": {
+      "name": "Project Gutenberg · The Time Machine",
+      "url": "https://www.gutenberg.org/ebooks/35"
+    },
+    "id": "E05",
+    "difficulty": "easy",
+    "work": "时间机器",
+    "spoiler": false
+  },
+  {
+    "category": "沙漠星球",
+    "prompt": "在《沙丘》中，人们争夺的珍贵物质通常被称为什么？",
+    "options": [
+      "香料",
+      "振金",
+      "氪石",
+      "反物质水晶"
+    ],
+    "answer": 0,
+    "explanation": "香料（melange）是《沙丘》世界的重要资源。它能延长寿命、拓展意识，也深刻影响了这个世界的权力格局。",
+    "source": {
+      "name": "Penguin Random House · Dune 系列介绍",
+      "url": "https://www.penguinrandomhouse.com/series/AU8/dune/"
+    },
+    "id": "E06",
+    "difficulty": "easy",
+    "work": "沙丘",
+    "spoiler": false
+  },
+  {
+    "category": "星际出行必备",
+    "prompt": "《银河系漫游指南》中，哪件日常用品被赋予了特别的星际旅行意义？",
+    "options": [
+      "雨伞",
+      "毛巾",
+      "订书机",
+      "保温杯"
+    ],
+    "answer": 1,
+    "explanation": "毛巾是这部幽默科幻经典中的代表性物品。带着一条毛巾，在古怪的宇宙里继续冒险吧。",
+    "source": {
+      "name": "Penguin Random House · Hitchhiker’s Guide 系列介绍",
+      "url": "https://www.penguinrandomhouse.com/series/HGG/hitchhikers-guide-to-the-galaxy/"
+    },
+    "id": "E07",
+    "difficulty": "easy",
+    "work": "银河系漫游指南",
+    "spoiler": false
+  },
+  {
+    "category": "人工智能",
+    "prompt": "在电影《2001：太空漫游》中，著名的人工智能计算机叫什么？",
+    "options": [
+      "R2-D2",
+      "T-800",
+      "HAL 9000",
+      "WALL-E"
+    ],
+    "answer": 2,
+    "explanation": "HAL 9000 是《2001：太空漫游》中飞船上的人工智能计算机，也是科幻电影史上的经典角色。",
+    "source": {
+      "name": "英国电影协会 BFI · 2001: A Space Odyssey",
+      "url": "https://www.bfi.org.uk/film/cefccdb2-b558-5623-9c17-72b4be7bd4c1/2001-a-space-odyssey"
+    },
+    "id": "E08",
+    "difficulty": "easy",
+    "work": "2001太空漫游",
+    "spoiler": false
+  },
+  {
+    "category": "科幻里程碑",
+    "prompt": "2015 年，《三体》获得了哪项国际科幻奖的最佳长篇小说奖？",
+    "options": [
+      "星云奖",
+      "雨果奖",
+      "布克奖",
+      "普利策奖"
+    ],
+    "answer": 1,
+    "explanation": "2015 年雨果奖最佳长篇小说获奖作品是《三体》，作者刘慈欣，英文译者刘宇昆。",
+    "source": {
+      "name": "雨果奖官网 · 2015 年获奖名单",
+      "url": "https://www.thehugoawards.org/hugo-history/2015-hugo-awards/"
+    },
+    "id": "E09",
+    "difficulty": "easy",
+    "work": "三体",
+    "spoiler": false
+  },
+  {
+    "category": "科学与想象",
+    "prompt": "如果两艘飞船之间是理想真空，没有无线电等设备，声音能直接传过去吗？",
+    "options": [
+      "能，真空传声更快",
+      "能，只要声音足够大",
+      "不能，声音传播需要介质",
+      "能，只要飞船距离够近"
+    ],
+    "answer": 2,
+    "explanation": "声音是机械波，传播需要介质，不能直接穿过理想真空。无线电使用的是电磁波，可以在真空中传播。",
+    "source": {
+      "name": "NASA Science · Anatomy of an Electromagnetic Wave",
+      "url": "https://science.nasa.gov/ems/02_anatomy/"
+    },
+    "id": "E10",
+    "difficulty": "easy",
+    "work": "科学常识",
+    "spoiler": false
+  },
+  {
+    "id": "E11",
+    "difficulty": "easy",
+    "work": "阿西莫夫机器人",
+    "category": "阿西莫夫机器人",
+    "prompt": "“机器人三定律”最著名地出现在谁的科幻作品中？",
+    "options": [
+      "艾萨克·阿西莫夫",
+      "阿瑟·克拉克",
+      "菲利普·迪克",
+      "儒勒·凡尔纳"
+    ],
+    "answer": 0,
+    "explanation": "机器人三定律是阿西莫夫机器人故事中的核心设定。",
+    "spoiler": false,
+    "source": {
+      "name": "阿西莫夫资料站 · 机器人定律",
+      "url": "https://www.asimovonline.com/asimov_FAQ.html"
+    }
+  },
+  {
+    "id": "E12",
+    "difficulty": "easy",
+    "work": "阿西莫夫机器人",
+    "category": "阿西莫夫机器人",
+    "prompt": "机器人三定律中的第一定律，首先要求机器人保护什么？",
+    "options": [
+      "人类的安全",
+      "机器人的财产",
+      "生产效率",
+      "机器人的声誉"
+    ],
+    "answer": 0,
+    "explanation": "第一定律要求机器人不得伤害人类，也不能坐视人类受到伤害。这是小说中的伦理设定。",
+    "spoiler": false,
+    "source": {
+      "name": "阿西莫夫资料站 · 机器人定律",
+      "url": "https://www.asimovonline.com/asimov_FAQ.html"
+    }
+  },
+  {
+    "id": "E13",
+    "difficulty": "easy",
+    "work": "沙丘",
+    "category": "沙丘",
+    "prompt": "科幻小说《沙丘》的作者是谁？",
+    "options": [
+      "弗兰克·赫伯特",
+      "艾萨克·阿西莫夫",
+      "道格拉斯·亚当斯",
+      "罗伯特·海因莱因"
+    ],
+    "answer": 0,
+    "explanation": "《沙丘》的作者是弗兰克·赫伯特，作品融合了生态、政治与星际文明等主题。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · Dune",
+      "url": "https://www.penguinrandomhouse.com/books/352036/dune-movie-tie-in-by-frank-herbert/"
+    }
+  },
+  {
+    "id": "E14",
+    "difficulty": "easy",
+    "work": "银河系漫游指南",
+    "category": "银河系漫游指南",
+    "prompt": "《银河系漫游指南》中，“生命、宇宙以及一切”的终极答案是哪个数字？",
+    "options": [
+      "42",
+      "21",
+      "64",
+      "100"
+    ],
+    "answer": 0,
+    "explanation": "超级计算机给出的终极答案是 42，但这个答案所对应的问题仍待寻找。",
+    "spoiler": false,
+    "source": {
+      "name": "维基百科 · 银河系漫游指南系列剧情",
+      "url": "https://zh.wikipedia.org/wiki/银河系漫游指南系列"
+    }
+  },
+  {
+    "id": "E15",
+    "difficulty": "easy",
+    "work": "星际迷航",
+    "category": "星际迷航",
+    "prompt": "“企业号”星舰是哪个科幻系列的代表性飞船？",
+    "options": [
+      "《星际迷航》",
+      "《星球大战》",
+      "《沙丘》",
+      "《银河系漫游指南》"
+    ],
+    "answer": 0,
+    "explanation": "企业号（Enterprise）是《星际迷航》的代表性星舰。",
+    "spoiler": false,
+    "source": {
+      "name": "Star Trek 官方资料 · 企业号",
+      "url": "https://www.startrek.com/news/enterprises-ambitious-arcs"
+    }
+  },
+  {
+    "id": "E16",
+    "difficulty": "easy",
+    "work": "机器人总动员",
+    "category": "机器人总动员",
+    "prompt": "《机器人总动员》中，瓦力最初在地球上的主要工作是什么？",
+    "options": [
+      "清理、压缩垃圾",
+      "指挥太空舰队",
+      "开采月球矿石",
+      "建造时间机器"
+    ],
+    "answer": 0,
+    "explanation": "瓦力原本负责清理地球垃圾，将垃圾压缩成一块块方块。",
+    "spoiler": false,
+    "source": {
+      "name": "Pixar · WALL-E",
+      "url": "https://www.pixar.com/wall-e"
+    }
+  },
+  {
+    "id": "E17",
+    "difficulty": "easy",
+    "work": "阿凡达",
+    "category": "阿凡达",
+    "prompt": "电影《阿凡达》的故事主要发生在哪个世界？",
+    "options": [
+      "潘多拉",
+      "厄拉科斯",
+      "塔图因",
+      "氪星"
+    ],
+    "answer": 0,
+    "explanation": "潘多拉是《阿凡达》中纳美人生活的世界，设定上是一颗卫星。",
+    "spoiler": false,
+    "source": {
+      "name": "Avatar 官方资料 · Pandora",
+      "url": "https://www.avatar.com/pandorapedia/pandora"
+    }
+  },
+  {
+    "id": "E18",
+    "difficulty": "easy",
+    "work": "侏罗纪公园",
+    "category": "侏罗纪公园",
+    "prompt": "在电影《侏罗纪公园》的设定中，科学家从什么东西里寻找恐龙 DNA？",
+    "options": [
+      "琥珀中保存的吸血蚊子",
+      "恐龙脚印中的岩石",
+      "海水里的盐结晶",
+      "火山喷出的玻璃"
+    ],
+    "answer": 0,
+    "explanation": "电影使用了琥珀中蚊子保存恐龙血液的设定；现实中尚未通过这种方法复活恐龙。",
+    "spoiler": false,
+    "source": {
+      "name": "自然历史博物馆 · 侏罗纪公园与恐龙 DNA",
+      "url": "https://www.nhm.ac.uk/discover/could-scientists-bring-dinosaurs-back.html"
+    }
+  },
+  {
+    "id": "E19",
+    "difficulty": "easy",
+    "work": "黑客帝国",
+    "category": "黑客帝国",
+    "prompt": "《黑客帝国》中，尼奥选择哪种颜色的药丸，以了解世界的真相？",
+    "options": [
+      "红色药丸",
+      "蓝色药丸",
+      "绿色药丸",
+      "黄色药丸"
+    ],
+    "answer": 0,
+    "explanation": "红色药丸让尼奥醒来面对真相，蓝色药丸则让他继续留在原来的生活中。",
+    "spoiler": false,
+    "source": {
+      "name": "BFI · The Matrix",
+      "url": "https://www.bfi.org.uk/features/matrix-wachowskis-keanu-reeves"
+    }
+  },
+  {
+    "id": "E20",
+    "difficulty": "easy",
+    "work": "终结者",
+    "category": "终结者",
+    "prompt": "《终结者》中的 T-800，机械躯体外覆盖的是什么？",
+    "options": [
+      "活体组织",
+      "纯金外壳",
+      "液态水",
+      "能量护盾"
+    ],
+    "answer": 0,
+    "explanation": "T-800 的机械骨架外覆盖着活体组织，因此能呈现人类的外貌。",
+    "spoiler": false,
+    "source": {
+      "name": "BFI · The Terminator",
+      "url": "https://www.bfi.org.uk/features/arnie-70-praise-terminator"
+    }
+  },
+  {
+    "id": "E21",
+    "difficulty": "easy",
+    "work": "星际穿越",
+    "category": "星际穿越",
+    "prompt": "电影《星际穿越》的导演是谁？",
+    "options": [
+      "克里斯托弗·诺兰",
+      "史蒂文·斯皮尔伯格",
+      "詹姆斯·卡梅隆",
+      "雷德利·斯科特"
+    ],
+    "answer": 0,
+    "explanation": "《星际穿越》由克里斯托弗·诺兰执导。",
+    "spoiler": false,
+    "source": {
+      "name": "Paramount · Interstellar",
+      "url": "https://www.paramountpictures.com/movies/interstellar"
+    }
+  },
+  {
+    "id": "E22",
+    "difficulty": "easy",
+    "work": "火星救援",
+    "category": "火星救援",
+    "prompt": "《火星救援》中，主人公马克·沃特尼被困在哪颗星球？",
+    "options": [
+      "火星",
+      "金星",
+      "木星",
+      "土星"
+    ],
+    "answer": 0,
+    "explanation": "马克·沃特尼被留在火星，必须设法生存并联系地球。",
+    "spoiler": false,
+    "source": {
+      "name": "20th Century Studios · The Martian",
+      "url": "https://www.20thcenturystudios.com/movies/the-martian"
+    }
+  },
+  {
+    "id": "E23",
+    "difficulty": "easy",
+    "work": "星球大战",
+    "category": "星球大战",
+    "prompt": "《星球大战》中，绝地武士运用的神秘力量被称为什么？",
+    "options": [
+      "原力",
+      "香料",
+      "灵子",
+      "心理史学"
+    ],
+    "answer": 0,
+    "explanation": "原力（the Force）是《星球大战》的核心设定之一。",
+    "spoiler": false,
+    "source": {
+      "name": "Star Wars 官方资料 · The Force",
+      "url": "https://www.starwars.com/databank/the-force"
+    }
+  },
+  {
+    "id": "E24",
+    "difficulty": "easy",
+    "work": "神秘博士",
+    "category": "神秘博士",
+    "prompt": "《神秘博士》中，TARDIS 通常呈现为什么外观？",
+    "options": [
+      "蓝色英国警亭",
+      "红色电话亭",
+      "银色飞碟",
+      "黄色出租车"
+    ],
+    "answer": 0,
+    "explanation": "TARDIS 通常呈蓝色英国警亭的外观，内部空间远比外观巨大。",
+    "spoiler": false,
+    "source": {
+      "name": "Doctor Who 官方资料 · TARDIS",
+      "url": "https://www.doctorwho.tv/news-and-features/what-is-the-tardis"
+    }
+  },
+  {
+    "id": "E25",
+    "difficulty": "easy",
+    "work": "星球大战",
+    "category": "星球大战",
+    "prompt": "《星球大战》中的“死星”是什么？",
+    "options": [
+      "能摧毁行星的巨型太空战斗站",
+      "一颗自然形成的恒星",
+      "绝地武士的学校",
+      "一种宇宙生物"
+    ],
+    "answer": 0,
+    "explanation": "死星是帝国建造的巨型战斗站，拥有摧毁行星的武器。",
+    "spoiler": false,
+    "source": {
+      "name": "Star Wars 官方资料 · Death Star",
+      "url": "https://www.starwars.com/databank/death-star"
+    }
+  },
+  {
+    "id": "E26",
+    "difficulty": "easy",
+    "work": "机器人总动员",
+    "category": "机器人总动员",
+    "prompt": "《机器人总动员》中，与瓦力相遇的白色探测机器人叫什么？",
+    "options": [
+      "伊娃（EVE）",
+      "HAL 9000",
+      "R2-D2",
+      "马文"
+    ],
+    "answer": 0,
+    "explanation": "伊娃是一台探测机器人，与瓦力相遇后一起改变了人类的未来。",
+    "spoiler": false,
+    "source": {
+      "name": "Pixar · WALL-E",
+      "url": "https://www.pixar.com/wall-e"
+    }
+  },
+  {
+    "id": "E27",
+    "difficulty": "easy",
+    "work": "北京折叠",
+    "category": "北京折叠",
+    "prompt": "中国科幻作品《北京折叠》的作者是谁？",
+    "options": [
+      "郝景芳",
+      "陈楸帆",
+      "宝树",
+      "韩松"
+    ],
+    "answer": 0,
+    "explanation": "《北京折叠》由郝景芳创作，其英文译本获得了 2016 年雨果奖。",
+    "spoiler": false,
+    "source": {
+      "name": "Uncanny Magazine · Folding Beijing",
+      "url": "https://www.uncannymagazine.com/article/folding-beijing-2/"
+    }
+  },
+  {
+    "id": "E28",
+    "difficulty": "easy",
+    "work": "科幻常识",
+    "category": "科幻常识",
+    "prompt": "科幻的英文 Science Fiction，常用哪两个字母缩写？",
+    "options": [
+      "SF",
+      "AI",
+      "VR",
+      "CG"
+    ],
+    "answer": 0,
+    "explanation": "SF 是 Science Fiction 的常用缩写。",
+    "spoiler": false,
+    "source": {
+      "name": "The Encyclopedia of Science Fiction · SF",
+      "url": "https://sf-encyclopedia.com/entry/sf"
+    }
+  },
+  {
+    "id": "E29",
+    "difficulty": "easy",
+    "work": "科学常识",
+    "category": "科学常识",
+    "prompt": "科幻作品中常出现的“光年”，是什么的单位？",
+    "options": [
+      "距离",
+      "时间",
+      "质量",
+      "温度"
+    ],
+    "answer": 0,
+    "explanation": "一光年是光在一年中传播的距离，因此它是距离单位。",
+    "spoiler": false,
+    "source": {
+      "name": "NASA · What Is a Light-Year?",
+      "url": "https://spaceplace.nasa.gov/light-year/en/"
+    }
+  },
+  {
+    "id": "E30",
+    "difficulty": "easy",
+    "work": "海底两万里",
+    "category": "海底两万里",
+    "prompt": "《海底两万里》的作者是谁？",
+    "options": [
+      "儒勒·凡尔纳",
+      "H. G. 威尔斯",
+      "阿瑟·克拉克",
+      "雷·布拉德伯里"
+    ],
+    "answer": 0,
+    "explanation": "《海底两万里》是法国作家儒勒·凡尔纳的代表作之一。",
+    "spoiler": false,
+    "source": {
+      "name": "Project Gutenberg · 海底两万里原文",
+      "url": "https://www.gutenberg.org/cache/epub/164/pg164-images.html"
+    }
+  },
+  {
+    "id": "H01",
+    "difficulty": "hard",
+    "work": "三体",
+    "category": "三体",
+    "prompt": "小说《三体》中，在红岸基地向外星文明发送关键回复的人是谁？",
+    "options": [
+      "叶文洁",
+      "汪淼",
+      "史强",
+      "罗辑"
+    ],
+    "answer": 0,
+    "explanation": "叶文洁在红岸基地发送了关键回复，改变了地球文明的命运。",
+    "spoiler": true,
+    "source": {
+      "name": "维基百科 · 三体系列剧情",
+      "url": "https://zh.wikipedia.org/wiki/三体系列"
+    }
+  },
+  {
+    "id": "H02",
+    "difficulty": "hard",
+    "work": "三体",
+    "category": "三体",
+    "prompt": "《三体Ⅱ：黑暗森林》结尾，建立对三体文明威慑的人是谁？",
+    "options": [
+      "罗辑",
+      "章北海",
+      "汪淼",
+      "维德"
+    ],
+    "answer": 0,
+    "explanation": "罗辑利用黑暗森林理论，建立了对三体文明的威慑。",
+    "spoiler": true,
+    "source": {
+      "name": "维基百科 · 三体Ⅱ黑暗森林",
+      "url": "https://zh.wikipedia.org/wiki/三体II：黑暗森林"
+    }
+  },
+  {
+    "id": "H03",
+    "difficulty": "hard",
+    "work": "三体",
+    "category": "三体",
+    "prompt": "按《三体》的小说设定，“水滴”表面材料的极高强度与哪种相互作用有关？",
+    "options": [
+      "强相互作用",
+      "弱相互作用",
+      "电磁相互作用",
+      "引力相互作用"
+    ],
+    "answer": 0,
+    "explanation": "小说将水滴的材料与强相互作用联系起来。这是作品设定，并非现实中已经实现的材料技术。",
+    "spoiler": false,
+    "source": {
+      "name": "澎湃新闻 · 引用原作的科幻研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_3706768"
+    }
+  },
+  {
+    "id": "H04",
+    "difficulty": "hard",
+    "work": "三体",
+    "category": "三体",
+    "prompt": "《三体Ⅱ》的“面壁计划”，利用了智子监视能力的哪项限制？",
+    "options": [
+      "无法直接读取人类的思想",
+      "无法接收无线电",
+      "无法看见海洋",
+      "无法观测太空飞船"
+    ],
+    "answer": 0,
+    "explanation": "智子能监视许多外部活动，却不能直接读取人的思想，面壁者因此可以隐瞒真正的计划。",
+    "spoiler": false,
+    "source": {
+      "name": "维基百科 · 三体Ⅱ黑暗森林",
+      "url": "https://zh.wikipedia.org/wiki/三体II：黑暗森林"
+    }
+  },
+  {
+    "id": "H05",
+    "difficulty": "hard",
+    "work": "三体",
+    "category": "三体",
+    "prompt": "《三体Ⅲ》中，“二向箔”的降维打击，会将三维空间变成几维？",
+    "options": [
+      "二维",
+      "一维",
+      "四维",
+      "五维"
+    ],
+    "answer": 0,
+    "explanation": "二向箔在小说中会让三维空间向二维跌落。",
+    "spoiler": true,
+    "source": {
+      "name": "澎湃新闻 · 引用原作的科幻研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_3706768"
+    }
+  },
+  {
+    "id": "H06",
+    "difficulty": "hard",
+    "work": "三体",
+    "category": "三体",
+    "prompt": "《三体Ⅲ》的“阶梯计划”最终送入太空的，是云天明身体的哪一部分？",
+    "options": [
+      "大脑",
+      "心脏",
+      "眼睛",
+      "完整的身体"
+    ],
+    "answer": 0,
+    "explanation": "因为载荷限制，阶梯计划最终选择发送云天明的大脑。",
+    "spoiler": true,
+    "source": {
+      "name": "维基百科 · 三体系列剧情",
+      "url": "https://zh.wikipedia.org/wiki/三体系列"
+    }
+  },
+  {
+    "id": "H07",
+    "difficulty": "hard",
+    "work": "阿西莫夫机器人",
+    "category": "阿西莫夫机器人",
+    "prompt": "仅按原始三定律，机器人被命令伤害人类时应该如何处理？",
+    "options": [
+      "拒绝执行，第一定律优先",
+      "服从命令，第二定律优先",
+      "只要自己安全就执行",
+      "由机器人随机决定"
+    ],
+    "answer": 0,
+    "explanation": "服从人类命令的第二定律不能违背保护人类的第一定律。",
+    "spoiler": false,
+    "source": {
+      "name": "阿西莫夫资料站 · 机器人定律",
+      "url": "https://www.asimovonline.com/asimov_FAQ.html"
+    }
+  },
+  {
+    "id": "H08",
+    "difficulty": "hard",
+    "work": "阿西莫夫机器人",
+    "category": "阿西莫夫机器人",
+    "prompt": "阿西莫夫提出的“第零定律”，将保护对象扩展到了什么？",
+    "options": [
+      "人类整体",
+      "某一位机器人的主人",
+      "所有机械设备",
+      "所有有机物"
+    ],
+    "answer": 0,
+    "explanation": "第零定律要求不伤害人类整体，将考虑范围扩展到整个人类。",
+    "spoiler": false,
+    "source": {
+      "name": "阿西莫夫资料站 · 机器人定律",
+      "url": "https://www.asimovonline.com/asimov_FAQ.html"
+    }
+  },
+  {
+    "id": "H09",
+    "difficulty": "hard",
+    "work": "基地",
+    "category": "基地",
+    "prompt": "《基地》系列中，提出心理史学并制定“谢顿计划”的人是谁？",
+    "options": [
+      "哈里·谢顿",
+      "保罗·厄崔迪",
+      "里克·戴克",
+      "安德·维京"
+    ],
+    "answer": 0,
+    "explanation": "哈里·谢顿利用心理史学预测银河帝国的衰落，并设计保存文明知识的计划。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · Foundation",
+      "url": "https://www.penguinrandomhouse.com/series/FOU/foundation/"
+    }
+  },
+  {
+    "id": "H10",
+    "difficulty": "hard",
+    "work": "基地",
+    "category": "基地",
+    "prompt": "《基地》的心理史学主要预测什么？",
+    "options": [
+      "大规模人群的行为与历史趋势",
+      "某个人每天的具体决定",
+      "单颗恒星的核聚变",
+      "动物的基因变化"
+    ],
+    "answer": 0,
+    "explanation": "心理史学依赖大规模群体的统计规律，不能精确预测每个人的每次选择。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · Foundation",
+      "url": "https://www.penguinrandomhouse.com/series/FOU/foundation/"
+    }
+  },
+  {
+    "id": "H11",
+    "difficulty": "hard",
+    "work": "沙丘",
+    "category": "沙丘",
+    "prompt": "《沙丘》中，盛产香料的沙漠世界叫什么？",
+    "options": [
+      "厄拉科斯（Arrakis）",
+      "卡拉丹（Caladan）",
+      "杰地一号（Giedi Prime）",
+      "科洛桑（Coruscant）"
+    ],
+    "answer": 0,
+    "explanation": "厄拉科斯是《沙丘》的核心舞台，也是香料资源的关键产地。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · Dune",
+      "url": "https://www.penguinrandomhouse.com/books/352036/dune-movie-tie-in-by-frank-herbert/"
+    }
+  },
+  {
+    "id": "H12",
+    "difficulty": "hard",
+    "work": "沙丘",
+    "category": "沙丘",
+    "prompt": "《沙丘》中，长期生活在厄拉科斯沙漠中的族群叫什么？",
+    "options": [
+      "弗雷曼人",
+      "萨多卡军团",
+      "贝尼·杰瑟里特姐妹会",
+      "宇航公会领航员"
+    ],
+    "answer": 0,
+    "explanation": "弗雷曼人适应了厄拉科斯的沙漠环境，并形成了独特的生活方式。",
+    "spoiler": false,
+    "source": {
+      "name": "Dune Novels · House Atreides",
+      "url": "https://dunenovels.com/house-atreides/"
+    }
+  },
+  {
+    "id": "H13",
+    "difficulty": "hard",
+    "work": "沙丘",
+    "category": "沙丘",
+    "prompt": "《沙丘》的主人公保罗属于哪个家族？",
+    "options": [
+      "厄崔迪家族（Atreides）",
+      "哈克南家族（Harkonnen）",
+      "科瑞诺家族（Corrino）",
+      "天行者家族（Skywalker）"
+    ],
+    "answer": 0,
+    "explanation": "保罗·厄崔迪是厄崔迪家族的继承人。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · Dune",
+      "url": "https://www.penguinrandomhouse.com/books/352036/dune-movie-tie-in-by-frank-herbert/"
+    }
+  },
+  {
+    "id": "H14",
+    "difficulty": "hard",
+    "work": "沙丘",
+    "category": "沙丘",
+    "prompt": "《沙丘》系列背景中的“巴特勒圣战”，主要反抗什么？",
+    "options": [
+      "思考机器对人类的统治",
+      "沙虫对城市的袭击",
+      "弗雷曼人的宗教活动",
+      "银河帝国的税收制度"
+    ],
+    "answer": 0,
+    "explanation": "巴特勒圣战是沙丘世界背景中的人类反抗思考机器的战争。",
+    "spoiler": false,
+    "source": {
+      "name": "Dune Novels · The Butlerian Jihad",
+      "url": "https://dunenovels.com/the-butlerian-jihad/"
+    }
+  },
+  {
+    "id": "H15",
+    "difficulty": "hard",
+    "work": "银河系漫游指南",
+    "category": "银河系漫游指南",
+    "prompt": "《银河系漫游指南》中，计算出“42”的超级计算机叫什么？",
+    "options": [
+      "深思（Deep Thought）",
+      "HAL 9000",
+      "马文（Marvin）",
+      "智子"
+    ],
+    "answer": 0,
+    "explanation": "深思给出了终极答案 42，但寻找对应的问题仍需要另一项宏大的计算。",
+    "spoiler": false,
+    "source": {
+      "name": "维基百科 · 银河系漫游指南系列剧情",
+      "url": "https://zh.wikipedia.org/wiki/银河系漫游指南系列"
+    }
+  },
+  {
+    "id": "H16",
+    "difficulty": "hard",
+    "work": "银河系漫游指南",
+    "category": "银河系漫游指南",
+    "prompt": "《银河系漫游指南》中，放进耳朵里的“巴别鱼”主要有什么作用？",
+    "options": [
+      "让人理解不同语言",
+      "让人能在真空中呼吸",
+      "记录所有梦境",
+      "预测下一次星际战争"
+    ],
+    "answer": 0,
+    "explanation": "巴别鱼是这部作品中非常特别的生物翻译工具。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · 银河系漫游指南",
+      "url": "https://www.penguinrandomhouse.com/series/HGG/hitchhikers-guide-to-the-galaxy/"
+    }
+  },
+  {
+    "id": "H17",
+    "difficulty": "hard",
+    "work": "银河系漫游指南",
+    "category": "银河系漫游指南",
+    "prompt": "《银河系漫游指南》中，地球被设计成巨型计算机，主要计算什么？",
+    "options": [
+      "与终极答案对应的终极问题",
+      "银河系所有恒星的质量",
+      "每位人类的幸运数字",
+      "旅行毛巾的最佳尺寸"
+    ],
+    "answer": 0,
+    "explanation": "地球这台计算机的任务，是寻找终极答案 42 所对应的终极问题。",
+    "spoiler": true,
+    "source": {
+      "name": "维基百科 · 银河系漫游指南系列剧情",
+      "url": "https://zh.wikipedia.org/wiki/银河系漫游指南系列"
+    }
+  },
+  {
+    "id": "H18",
+    "difficulty": "hard",
+    "work": "时间机器",
+    "category": "时间机器",
+    "prompt": "《时间机器》中，未来人类演化成了哪两个主要族群？",
+    "options": [
+      "埃洛伊人与莫洛克人",
+      "弗雷曼人与萨多卡人",
+      "纳美人与人类",
+      "克林贡人与瓦肯人"
+    ],
+    "answer": 0,
+    "explanation": "埃洛伊人生活在地表，莫洛克人主要生活在地下，两者都与人类的演化有关。",
+    "spoiler": false,
+    "source": {
+      "name": "Project Gutenberg · 时间机器原文",
+      "url": "https://www.gutenberg.org/files/35/35-h/35-h.htm"
+    }
+  },
+  {
+    "id": "H19",
+    "difficulty": "hard",
+    "work": "海底两万里",
+    "category": "海底两万里",
+    "prompt": "《海底两万里》的叙述者阿龙纳斯教授，主要研究哪个领域？",
+    "options": [
+      "博物学",
+      "心理史学",
+      "天体物理学",
+      "密码学"
+    ],
+    "answer": 0,
+    "explanation": "阿龙纳斯是一名博物学家，也是读者观察鹦鹉螺号冒险的主要视角。",
+    "spoiler": false,
+    "source": {
+      "name": "Project Gutenberg · 海底两万里原文",
+      "url": "https://www.gutenberg.org/cache/epub/164/pg164-images.html"
+    }
+  },
+  {
+    "id": "H20",
+    "difficulty": "hard",
+    "work": "海底两万里",
+    "category": "海底两万里",
+    "prompt": "《海底两万里》标题中的“两万里”，指的是什么？",
+    "options": [
+      "航行距离",
+      "下潜深度",
+      "潜艇的长度",
+      "海底的最高水压"
+    ],
+    "answer": 0,
+    "explanation": "标题指的是海底旅行所经历的距离，而不是潜艇潜入两万里的深度。",
+    "spoiler": false,
+    "source": {
+      "name": "Project Gutenberg · 海底两万里原文",
+      "url": "https://www.gutenberg.org/cache/epub/164/pg164-images.html"
+    }
+  },
+  {
+    "id": "H21",
+    "difficulty": "hard",
+    "work": "海底两万里",
+    "category": "海底两万里",
+    "prompt": "《海底两万里》中，鹦鹉螺号主要使用什么驱动机械设备？",
+    "options": [
+      "电力",
+      "风帆",
+      "蒸汽锅炉",
+      "柴油发动机"
+    ],
+    "answer": 0,
+    "explanation": "尼摩船长用电力驱动潜艇上的许多机械设备。",
+    "spoiler": false,
+    "source": {
+      "name": "Project Gutenberg · 海底两万里原文",
+      "url": "https://www.gutenberg.org/cache/epub/164/pg164-images.html"
+    }
+  },
+  {
+    "id": "H22",
+    "difficulty": "hard",
+    "work": "世界大战",
+    "category": "世界大战",
+    "prompt": "威尔斯的《世界大战》中，最终使入侵火星人死亡的主要因素是什么？",
+    "options": [
+      "地球上的细菌",
+      "人类制造的核武器",
+      "海水中的盐分",
+      "地球的引力"
+    ],
+    "answer": 0,
+    "explanation": "火星人无法抵御地球上的细菌，最终在入侵中死亡。",
+    "spoiler": true,
+    "source": {
+      "name": "Project Gutenberg · 世界大战原文",
+      "url": "https://www.gutenberg.org/cache/epub/36/pg36-images.html"
+    }
+  },
+  {
+    "id": "H23",
+    "difficulty": "hard",
+    "work": "华氏451",
+    "category": "华氏451",
+    "prompt": "《华氏451》中，“消防员”的主要工作是什么？",
+    "options": [
+      "焚烧书籍",
+      "修复古籍",
+      "扑灭森林火灾",
+      "保存所有新闻影像"
+    ],
+    "answer": 0,
+    "explanation": "作品中的消防员负责焚书，体现了这个社会对阅读和独立思考的压制。",
+    "spoiler": false,
+    "source": {
+      "name": "Simon & Schuster · Fahrenheit 451",
+      "url": "https://www.simonandschuster.com/books/Fahrenheit-451/Ray-Bradbury/9781451673319"
+    }
+  },
+  {
+    "id": "H24",
+    "difficulty": "hard",
+    "work": "安德的游戏",
+    "category": "安德的游戏",
+    "prompt": "小说《安德的游戏》结尾，安德的最终“模拟战”实际上是什么？",
+    "options": [
+      "他在指挥真实的对虫族战斗",
+      "他与自己的复制人对战",
+      "仅用于评分的电脑模拟",
+      "银河帝国的历史影像"
+    ],
+    "answer": 0,
+    "explanation": "安德以为自己在训练，却在指挥真实战斗。真相揭露后，他必须面对战争的后果。",
+    "spoiler": true,
+    "source": {
+      "name": "Macmillan · 安德的游戏阅读指南",
+      "url": "https://images.macmillan.com/folio-assets/readers-guides/9780765342294RG.pdf"
+    }
+  },
+  {
+    "id": "H25",
+    "difficulty": "hard",
+    "work": "银翼杀手",
+    "category": "银翼杀手",
+    "prompt": "1982 年电影《银翼杀手》的故事改编自哪部小说？",
+    "options": [
+      "《仿生人会梦见电子羊吗？》",
+      "《华氏451》",
+      "《雪崩》",
+      "《神经漫游者》"
+    ],
+    "answer": 0,
+    "explanation": "《银翼杀手》改编自菲利普·迪克的《仿生人会梦见电子羊吗？》。",
+    "spoiler": false,
+    "source": {
+      "name": "Penguin Random House · 仿生人会梦见电子羊吗",
+      "url": "https://www.penguinrandomhouse.com/books/40617/do-androids-dream-of-electric-sheep-by-philip-k-dick/"
+    }
+  },
+  {
+    "id": "H26",
+    "difficulty": "hard",
+    "work": "星球大战",
+    "category": "星球大战",
+    "prompt": "《星球大战》中，光剑核心通常使用哪种晶体？",
+    "options": [
+      "凯伯水晶（Kyber crystal）",
+      "香料结晶",
+      "振金晶体",
+      "氪石晶体"
+    ],
+    "answer": 0,
+    "explanation": "凯伯水晶是光剑的重要核心部件。",
+    "spoiler": false,
+    "source": {
+      "name": "Star Wars 官方资料 · Kyber Crystal",
+      "url": "https://www.starwars.com/databank/lightsaber-crystal"
+    }
+  },
+  {
+    "id": "H27",
+    "difficulty": "hard",
+    "work": "星际迷航",
+    "category": "星际迷航",
+    "prompt": "《星际迷航》的“最高指导原则”，主要限制星际舰队做什么？",
+    "options": [
+      "干涉其他文明的自然发展",
+      "研究其他星球的地质",
+      "维修自己的飞船",
+      "使用星际通讯"
+    ],
+    "answer": 0,
+    "explanation": "最高指导原则强调不干涉其他文明的自然发展。",
+    "spoiler": false,
+    "source": {
+      "name": "Star Trek 官方资料 · 最高指导原则",
+      "url": "https://www.startrek.com/news/strange-new-worlds-101-the-prime-directive"
+    }
+  },
+  {
+    "id": "H28",
+    "difficulty": "hard",
+    "work": "北京折叠",
+    "category": "北京折叠",
+    "prompt": "《北京折叠》中，不同空间的人群如何轮流使用城市？",
+    "options": [
+      "城市折叠翻转，分配活动时段",
+      "每天抽签进入同一片城市",
+      "不同人群轮流迁往月球",
+      "由个人随意切换空间"
+    ],
+    "answer": 0,
+    "explanation": "作品用空间折叠和活动时间的分配，呈现不同群体的生活差异。",
+    "spoiler": false,
+    "source": {
+      "name": "Uncanny Magazine · Folding Beijing",
+      "url": "https://www.uncannymagazine.com/article/folding-beijing-2/"
+    }
+  },
+  {
+    "id": "H29",
+    "difficulty": "hard",
+    "work": "乡村教师",
+    "category": "乡村教师",
+    "prompt": "刘慈欣的《乡村教师》中，学生用哪组定律通过了外星文明的测试？",
+    "options": [
+      "牛顿运动三定律",
+      "机器人三定律",
+      "热力学三条定律",
+      "开普勒行星运动三定律"
+    ],
+    "answer": 0,
+    "explanation": "老师传授的牛顿运动三定律，使学生通过测试，并改变了地球的命运。",
+    "spoiler": true,
+    "source": {
+      "name": "维基百科 · 乡村教师剧情",
+      "url": "https://zh.wikipedia.org/wiki/乡村教师"
+    }
+  },
+  {
+    "id": "H30",
+    "difficulty": "hard",
+    "work": "星际穿越",
+    "category": "星际穿越",
+    "prompt": "《星际穿越》中，米勒星球一小时对应地球约七年，主要体现什么？",
+    "options": [
+      "强引力环境下的时间膨胀",
+      "行星自转慢会让所有钟变慢",
+      "虫洞故障会让时间随机倒流",
+      "海水会降低时间流动速度"
+    ],
+    "answer": 0,
+    "explanation": "米勒星球靠近黑洞，强引力环境下的时间膨胀造成了巨大的时间差异。",
+    "spoiler": false,
+    "source": {
+      "name": "Kip Thorne · 星际穿越与黑洞",
+      "url": "https://www.its.caltech.edu/~kip/index.html/PubScans/VI-59.pdf"
+    }
+  }
+]
